@@ -7,8 +7,8 @@ Hi, I'm Reynaldo E. Ciriaco, a BSIT student at New Era University. I know basic 
 ## Education
 
 - **BS Information Technology**
-  New Era University
-  2019-Present
+- New Era University
+- 2019-Present
 
 ## Certification
 
@@ -21,7 +21,7 @@ Hi, I'm Reynaldo E. Ciriaco, a BSIT student at New Era University. I know basic 
 
 - **Programming:** Java, JavaScript
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, CSS, SQL, Oracle, Eclipse
 
 ## Connect with Me
 
